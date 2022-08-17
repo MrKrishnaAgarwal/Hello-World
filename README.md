@@ -1,4 +1,4 @@
-# Hello-World-in-18-Languages
+# Hello-World-in-different-Languages
 <h4> Hello World in:</h4>
 
 - <a href="https://github.com/MrKrishnaAgarwal/Hello-World/blob/main/Bash">Bash</a>
