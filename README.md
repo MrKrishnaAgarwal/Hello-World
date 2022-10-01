@@ -3,6 +3,7 @@
 
 - <a href="https://github.com/MrKrishnaAgarwal/Hello-World/blob/main/Bash">Bash</a>
 - <a href="https://github.com/MrKrishnaAgarwal/Hello-World/blob/main/Windows PowerShell">Windows PowerShell</a>
+- <a href="https://github.com/MrKrishnaAgarwal/Hello-World/blob/main/main_bhai_lang.bhai">Bhai lang</a>
 - <a href="https://github.com/MrKrishnaAgarwal/Hello-World/blob/main/main.c">C</a>
 - <a href="https://github.com/MrKrishnaAgarwal/Hello-World/blob/main/main.cpp">C++</a>
 - <a href="https://github.com/MrKrishnaAgarwal/Hello-World/blob/main/main.cs">C#</a>
