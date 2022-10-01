@@ -9,6 +9,7 @@
 - <a href="https://github.com/MrKrishnaAgarwal/Hello-World/blob/main/main.cs">C#</a>
 - <a href="https://github.com/MrKrishnaAgarwal/Hello-World/blob/main/main.dart">Dart</a>
 - <a href="https://github.com/MrKrishnaAgarwal/Hello-World/blob/main/main.go">GoLang</a>
+- <a href="[https](https://github.com/MrKrishnaAgarwal/Hello-World/blob/main/main.groovy)">Groovy</a>
 - <a href="https://github.com/MrKrishnaAgarwal/Hello-World/blob/main/main.html">HTML</a>
 - <a href="https://github.com/MrKrishnaAgarwal/Hello-World/blob/main/main.java">Java</a>
 - <a href="https://github.com/MrKrishnaAgarwal/Hello-World/blob/main/main.js">JavaScript</a>
